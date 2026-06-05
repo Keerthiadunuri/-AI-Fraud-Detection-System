@@ -2,8 +2,8 @@ streamlit
 numpy
 pandas
 scikit-learn
-tensorflow
-keras
 matplotlib
 seaborn
 joblib
+plotly
+tensorflow-cpu==2.15.0
